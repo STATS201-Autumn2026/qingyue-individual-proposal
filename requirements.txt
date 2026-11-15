@@ -1,0 +1,6 @@
+datasets
+huggingface-hub
+matplotlib
+numpy
+pandas
+scikit-learn
